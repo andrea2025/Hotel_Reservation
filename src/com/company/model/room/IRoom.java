@@ -1,4 +1,4 @@
-package com.company.model;
+package com.company.model.room;
 
 public interface IRoom {
     String getRoomNumber();
